@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1651
+slug  : the-huffman-code
+seal  : a42d868984683d3d5337c8fdf40b0cc059d8b2034b928420ea3ef5fc23a71bdc
+prev  : c026ba1be2d68ed90da8d2fb5c7c5c980104f890c22e12c57bda8178d6e5cbdb
+link  : a837aa505aed26cc76a3acb159385947133bcc2cedb3002a0618b6dd6175e3cf
+head  : ab7534787a3e851565e9e4deb3785506d0823223c86e1d7336ac9e1427c355d4
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
